@@ -1,0 +1,78 @@
+Hugo Mohamed
+L1 MIPC
+Groupe 6.1
+
+
+Exercice 1 :
+
+Question 2 :
+python3 figures.py
+
+Question 3 :
+Il affiche des formes géometriques dans une fenetre de 800 par 600
+
+Question 4:
+Il exporte l'image obtenu en "salut.png"
+
+
+Exercice 2 :
+
+Question 12 :
+Le programme ne se lance pas et renvoie un message d'erreur.
+
+Question 13:
+Le programme se lance et affiche :
+Bienvenu dans param.py
+------------------------------
+Bonjour TOTO
+
+Question 15 :
+Il faut taper "python3 TOTO 5"
+
+
+Exercice 3 :
+
+Question 18 :
+python3 magic-spir.py *le nombre de trait* *le nom de l'image*
+exemple :
+python3 magic-spir.py 20 spirale1.png
+python3 magic-spir.py 8 spirale2.png
+python3 magic-spir.py 100 spirale3.png
+
+Question 19 :
+python3 magic-1.py 4 magic-1.png
+python3 magic-1.py 10 magic-1-1.png
+python3 magic-1.py 20 magic-1-2.png
+
+Question 20 :
+python3 magic2.py 2 magic-2.png
+python3 magic2.py 10 magic-2-1.png
+python3 magic2.py 20 magic-2-2.png
+
+Question 21 :
+python3 magic-3.py 4 magic-3.png
+python3 magic-3.py 10 magic-3-1.png
+python3 magic-3.py 20 magic-3-2.png
+
+Question 22 :
+python3 magic-4.py 4 magic-4.png
+python3 magic-4.py 10 magic-4-1.png
+python3 magic-4.py 20 magic-4-2.png
+
+Question 23 :
+python3 magic-5.py 6 10 magic-5.png
+python3 magic-5.py 6 66 magic-5-1.png
+python3 magic-5.py 10 10 magic-5-2.png
+
+Question 24 :
+python3 magic-6.py 6 10 magic-6.png
+python3 magic-6.py 6 66 magic-6-1.png
+python3 magic-6.py 10 10 magic-6-2.png
+
+
+Exercice 4 :
+
+Question 28 :
+python3 magic-smiley.py 6 10 magic-smiley.png
+python3 magic-smiley.py 6 66 magic-smiley-1.png
+python3 magic-smiley.py 10 10 magic-smiley-2.png

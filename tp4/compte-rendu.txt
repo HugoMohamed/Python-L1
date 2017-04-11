@@ -1,0 +1,48 @@
+Hugo MOHAMED
+L1 MIPC Groupe 6.1
+
+Question 2 )
+Il ne se passerait absolument rien puisque l'on appel pas la fonction.
+
+Question 3 )
+Le programme afficherais :
+L1 : 4
+L2 : 4
+Total : 8
+
+Question 4)
+Le programme afficherais en plus des lignes précédentes :
+L1 : 4
+L2 : 8 #qui correspond a la longueur de b qu'on a calculer juste avant
+Total : 12
+	# un saut de ligne avec le print()
+TotoTiti
+TotoTotoTiti
+
+Question 16)
+Le programme s'execute mais n'affiche rien.
+
+Question 18)
+Non.
+
+Question 20)
+Le programme affiche simplement : Prgramme principal.
+
+Question 23)
+Le programme affiche :
+Programme principal
+Appel de la fonction produit
+15
+Appel de la fonction somme
+11.5
+
+Question 28)
+Le programme affiche :
+multiplication
+
+Question 30)
+Le programme affiche :
+Addition
+Appel de la fonction somme
+111.0
+
